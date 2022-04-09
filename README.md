@@ -1,1 +1,3 @@
-# LMS_PROJECT332211
+# librarymanagmentsysteminphp
+
+Import library_managment.sql on database
